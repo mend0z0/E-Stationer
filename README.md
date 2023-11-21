@@ -2,13 +2,14 @@
 
 
 ``
-Latest update, or process that is going through
+Working on folder structure, block diagrams, and...
 ``
 
 
-# Project
+# E-Stationer
 
-Description...
+E-Stationer is a project of consisting of two hardware parts, E-Pen and E-Paper, and 1 software parts that allow the user
+to draw, write, read, and any sort of activity that you are able to do with a casual pen and paper.
 
 
 ## Features
@@ -22,25 +23,25 @@ Description...
 
 ### Hardware
 
-    MCU:
+    MCU: 8bit PIC
 
-    Connection:
+    Connection: USB, UART, SPI, ADC, GPIO
 
-    PCB Layers: xLayer/s (Controlled/None-controlled Impedance)
+    PCB Layers: 2Layers (None-controlled Impedance)
 
     CAD: KiCAD
 
 ### Firmware
 
-    OS:
+    OS: State-machine
 
-    Programming Language:
+    Programming Language: C
 
-    IDE:
+    IDE: MPLABX IDE
 
 ### Application
 
-    Application:
+    Application: Qt6
 
 
 
@@ -55,7 +56,7 @@ Description...
 
 ## Block Diagrams
 
-[Block1](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+[E-Stationer BlockDiagaram](https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Stationer.png)
 
 [Block2](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
 
@@ -78,7 +79,7 @@ Insert gif or link to demo, it'll be my youtube channel
 
 ## LOGO
 
-![Logo](https://github.com/mend0z0/OfficeDisplay/blob/main/LOGO.png)
+![Logo](https://github.com/mend0z0/E-Stationer/blob/main/LOGO.png)
 
 
 ## Author
