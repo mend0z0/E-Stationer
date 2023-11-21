@@ -23,25 +23,25 @@ to draw, write, read, and any sort of activity that you are able to do with a ca
 
 ### Hardware
 
-    MCU: 8bit PIC
+- **MCU:** 8bit PIC
 
-    Connection: USB, UART, SPI, ADC, GPIO
+- **Connection:** USB, UART, SPI, ADC, GPIO
 
-    PCB Layers: 2Layers (None-controlled Impedance)
+- **PCB Layers:** 2Layers (None-controlled Impedance)
 
-    CAD: KiCAD
+- **CAD:** KiCAD
 
 ### Firmware
 
-    OS: State-machine
+- **OS:** State-machine
 
-    Programming Language: C
+- **Programming Language:** C
 
-    IDE: MPLABX IDE
+- **IDE:** MPLABX IDE
 
 ### Application
 
-    Application: Qt6
+- **Application:** Qt6
 
 
 
