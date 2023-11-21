@@ -9,7 +9,7 @@ Working on folder structure, block diagrams, and...
 # E-Stationer
 
 E-Stationer is a project of consisting of two hardware parts, E-Pen and E-Paper, and 1 software parts that allow the user
-to draw, write, read, and any sort of activity that you are able to do with a casual pen and paper.
+to draw, write, read, and any sort of activities that you are able to do with a typical pen and paper.
 
 
 ## Features
