@@ -89,5 +89,5 @@ Insert gif or link to demo, it'll be my youtube channel
 
 ## Support
 
-You can find here ... the way you like to support the project...!
+[Support Link](https://github.com/sponsors/mend0z0)
 
