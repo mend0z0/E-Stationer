@@ -56,11 +56,11 @@ to draw, write, read, and any sort of activity that you are able to do with a ca
 
 ## Block Diagrams
 
-(https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Stationer.png)
+![E-Stationer BlockDiagaram](https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Stationer.png)
 
-[Block2](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![Block2](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
 
-[Block3](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![Block3](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
 
 
 ## Screenshots
