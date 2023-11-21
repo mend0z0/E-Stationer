@@ -51,16 +51,16 @@ to draw, write, read, and any sort of activity that you are able to do with a ca
 
 ## WBS Chart
 
-![WBS Chart](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![WBS Chart](https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Stationer%20WBS%20Chart.png)
 
 
 ## Block Diagrams
 
-![E-Stationer BlockDiagaram](https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Stationer.png)
+![E-Stationer Bloc kDiagaram](https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Stationer.png)
 
-![Block2](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![E-Pen Hardware Block Diagram](https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Pen%20Hardware.png)
 
-![Block3](https://github.com/mend0z0/OfficeDisplay/tree/main/Document)
+![E-Paper Hardware Block Diagram](https://github.com/mend0z0/E-Stationer/blob/main/Document/BlockDiagrams/E-Stationer-E-Paper%20Hardware.png)
 
 
 ## Screenshots
