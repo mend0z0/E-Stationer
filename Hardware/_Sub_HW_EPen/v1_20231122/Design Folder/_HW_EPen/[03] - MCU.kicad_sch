@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid c1895b3b-4f3b-4bd6-9639-ef649abea02a)
+  (uuid 87dc0c09-8c10-488f-ab9e-09883f0c54af)
 
   (paper "B")
 
@@ -833,6 +833,10 @@
     (at 88.9 162.56 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b21f70fa-7a38-40f3-bf08-b11e3a826cea)
+  )
+  (text "UNCHECKED" (at 369.57 36.83 0)
+    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
+    (uuid d95c10b6-52eb-4577-bd43-b965dd8fae22)
   )
 
   (label "PIC_~{MCLR}" (at 170.18 115.57 0) (fields_autoplaced)

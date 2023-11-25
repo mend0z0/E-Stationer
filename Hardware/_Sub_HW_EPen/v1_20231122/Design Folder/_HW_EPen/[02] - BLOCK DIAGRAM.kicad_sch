@@ -1,12 +1,25 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid ada2d768-837c-4a27-abdd-eeb195c8f98b)
+  (uuid 27c0e05b-8bdf-4801-a4c3-a802cd05fe00)
 
   (paper "B")
 
   (lib_symbols
   )
 
+
+  (text "x" (at 199.39 143.51 0)
+    (effects (font (size 10.16 10.16)) (justify left bottom))
+    (uuid 2d2f7a68-497d-461e-92cd-12eccf9ef6ac)
+  )
+  (text "x" (at 148.59 143.51 0)
+    (effects (font (size 10.16 10.16)) (justify left bottom))
+    (uuid 89132861-8772-4010-b1b4-c9bbd9d06273)
+  )
+  (text "x" (at 198.12 105.41 0)
+    (effects (font (size 10.16 10.16)) (justify left bottom))
+    (uuid a9e57699-de6d-462c-a3dd-81418569774e)
+  )
 
   (sheet (at 88.9 127) (size 25.4 25.4) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
@@ -63,10 +76,10 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid b472b468-4d0c-404c-af9d-e8fb4c99595d)
-    (property "Sheetname" "FT260S_DRIVER" (at 139.7 126.2884 0)
+    (property "Sheetname" "FT230X_DRIVER" (at 139.7 126.2884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "[05] - FT260_DRIVER.kicad_sch" (at 139.7 152.9846 0)
+    (property "Sheetfile" "[05] - FT230X_DRIVER.kicad_sch" (at 139.7 152.9846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
