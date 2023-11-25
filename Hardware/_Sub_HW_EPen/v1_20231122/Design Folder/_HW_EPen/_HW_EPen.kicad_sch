@@ -4,6 +4,13 @@
 
   (paper "B")
 
+  (title_block
+    (title "_HW_EPen")
+    (rev "v1.0")
+    (company "mend0z0")
+    (comment 8 "N/A")
+  )
+
   (lib_symbols
   )
 
@@ -457,6 +464,23 @@
   (text "4" (at 29.21 149.86 0)
     (effects (font (size 5 5)) (justify left bottom))
     (uuid fbbd3db9-f663-447e-a4db-55f5d3c27cbd)
+  )
+
+  (sheet (at 50.8 118.11) (size 63.5 6.35) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7dba9ac4-cfde-4903-b774-f23f20ffdff2)
+    (property "Sheetname" "BLOCK DIAGRAM" (at 50.8 117.3984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[02] - BLOCK DIAGRAM.kicad_sch" (at 50.8 125.0446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407" (page "2"))
+      )
+    )
   )
 
   (sheet_instances

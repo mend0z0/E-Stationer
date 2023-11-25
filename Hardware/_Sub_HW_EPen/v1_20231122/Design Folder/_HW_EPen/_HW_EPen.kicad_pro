@@ -471,6 +471,30 @@
     [
       "9ee621ae-6984-4881-898c-f5f3c9433407",
       ""
+    ],
+    [
+      "7dba9ac4-cfde-4903-b774-f23f20ffdff2",
+      "BLOCK DIAGRAM"
+    ],
+    [
+      "4f69a756-13f1-41da-a917-ef791025fd7a",
+      "MCU"
+    ],
+    [
+      "af776e13-0eb3-4784-92d3-acbfae626c26",
+      "OUTPUT"
+    ],
+    [
+      "b472b468-4d0c-404c-af9d-e8fb4c99595d",
+      "FT260S_DRIVER"
+    ],
+    [
+      "07061765-3a92-460a-b58a-c0f4166899f3",
+      "USB"
+    ],
+    [
+      "ed673962-aeaa-479e-8c18-31764c3bc907",
+      "LDO +3V0DC"
     ]
   ],
   "text_variables": {}

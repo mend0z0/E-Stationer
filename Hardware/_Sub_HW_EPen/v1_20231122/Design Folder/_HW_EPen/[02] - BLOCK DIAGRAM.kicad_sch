@@ -1,0 +1,95 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ada2d768-837c-4a27-abdd-eeb195c8f98b)
+
+  (paper "B")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 88.9 127) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 07061765-3a92-460a-b58a-c0f4166899f3)
+    (property "Sheetname" "USB" (at 88.9 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[06] - USB.kicad_sch" (at 88.9 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407/7dba9ac4-cfde-4903-b774-f23f20ffdff2" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 190.5 127) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 4f69a756-13f1-41da-a917-ef791025fd7a)
+    (property "Sheetname" "MCU" (at 190.5 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[03] - MCU.kicad_sch" (at 190.5 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407/7dba9ac4-cfde-4903-b774-f23f20ffdff2" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 241.3 127) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid af776e13-0eb3-4784-92d3-acbfae626c26)
+    (property "Sheetname" "OUTPUT" (at 241.3 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[04] - OUTPUT.kicad_sch" (at 241.3 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407/7dba9ac4-cfde-4903-b774-f23f20ffdff2" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 139.7 127) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b472b468-4d0c-404c-af9d-e8fb4c99595d)
+    (property "Sheetname" "FT260S_DRIVER" (at 139.7 126.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[05] - FT260_DRIVER.kicad_sch" (at 139.7 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407/7dba9ac4-cfde-4903-b774-f23f20ffdff2" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 190.5 88.9) (size 25.4 25.4) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid ed673962-aeaa-479e-8c18-31764c3bc907)
+    (property "Sheetname" "LDO +3V0DC" (at 190.5 88.1884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[07] - LDO +3V0DC.kicad_sch" (at 190.5 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407/7dba9ac4-cfde-4903-b774-f23f20ffdff2" (page "7"))
+      )
+    )
+  )
+)
