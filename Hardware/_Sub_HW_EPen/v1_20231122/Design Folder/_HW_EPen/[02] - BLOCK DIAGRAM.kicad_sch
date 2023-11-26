@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 27c0e05b-8bdf-4801-a4c3-a802cd05fe00)
+  (uuid 2edced1a-fbdb-4dd9-b648-77a87f961796)
 
   (paper "B")
 
@@ -8,6 +8,10 @@
   )
 
 
+  (text "UNCHECKED" (at 369.57 36.83 0)
+    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
+    (uuid 2d03fa1c-820e-44d4-b721-9d4468c942d6)
+  )
   (text "x" (at 199.39 143.51 0)
     (effects (font (size 10.16 10.16)) (justify left bottom))
     (uuid 2d2f7a68-497d-461e-92cd-12eccf9ef6ac)
