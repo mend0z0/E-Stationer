@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 43a3ed24-3c8e-444a-aaac-2d800205d6a0)
+  (uuid 9bbd5852-431d-48c8-bae6-0765e432421a)
 
   (paper "B")
 
@@ -848,7 +848,7 @@
     (uuid 6933f474-a013-4dc0-83d5-64cf760ef29f)
   )
 
-  (hierarchical_label "SPI_MOSI" (shape output) (at 231.14 132.08 0) (fields_autoplaced)
+  (hierarchical_label "SPI_MOSI" (shape output) (at 231.14 129.54 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 010876ff-0898-438d-817f-06f118d2b5ae)
   )
@@ -856,11 +856,15 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 50dd67d8-52f9-4a6b-96f5-18649f6c1119)
   )
+  (hierarchical_label "SPI_MISO" (shape input) (at 231.14 132.08 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 56abe4c3-db41-4972-9e31-55b598e56206)
+  )
   (hierarchical_label "SPI_CS" (shape output) (at 231.14 134.62 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 576a2c6b-860e-434f-a149-5b2382c912cf)
   )
-  (hierarchical_label "MIC5365_EN" (shape output) (at 231.14 127 0) (fields_autoplaced)
+  (hierarchical_label "MIC5365_EN" (shape output) (at 231.14 124.46 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 7163c42a-53a0-47b2-a0e4-91b305f6081b)
   )
@@ -876,7 +880,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c051178a-57b1-41b9-a181-e00ef69a2cc5)
   )
-  (hierarchical_label "SPI_CLK" (shape output) (at 231.14 129.54 0) (fields_autoplaced)
+  (hierarchical_label "SPI_CLK" (shape output) (at 231.14 127 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid f3d38d87-82ac-4be5-b83b-16f6cfa8f847)
   )

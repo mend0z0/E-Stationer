@@ -1,6 +1,6 @@
 (kicad_sch (version 20230121) (generator eeschema)
 
-  (uuid 2edced1a-fbdb-4dd9-b648-77a87f961796)
+  (uuid 53176839-e396-4cee-b946-eede38977f57)
 
   (paper "B")
 
@@ -12,9 +12,9 @@
     (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
     (uuid 2d03fa1c-820e-44d4-b721-9d4468c942d6)
   )
-  (text "x" (at 199.39 143.51 0)
+  (text "x" (at 248.92 143.51 0)
     (effects (font (size 10.16 10.16)) (justify left bottom))
-    (uuid 2d2f7a68-497d-461e-92cd-12eccf9ef6ac)
+    (uuid 80fa9d46-4979-4134-b41c-fbad0d64c164)
   )
   (text "x" (at 148.59 143.51 0)
     (effects (font (size 10.16 10.16)) (justify left bottom))
@@ -23,6 +23,10 @@
   (text "x" (at 198.12 105.41 0)
     (effects (font (size 10.16 10.16)) (justify left bottom))
     (uuid a9e57699-de6d-462c-a3dd-81418569774e)
+  )
+  (text "x" (at 96.52 143.51 0)
+    (effects (font (size 10.16 10.16)) (justify left bottom))
+    (uuid ac198d07-a048-449f-b040-1db431d4c9a4)
   )
 
   (sheet (at 88.9 127) (size 25.4 25.4) (fields_autoplaced)
