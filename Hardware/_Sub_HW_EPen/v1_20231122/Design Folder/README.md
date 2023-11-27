@@ -1,6 +1,6 @@
 # TODO list
 
-A brief description of this todo list belongs to what project
+This todo list belongs to _SUB_HW_EPen, the hardware part of EPen sub project. 
 
 ## Tasks
 
