@@ -1,15 +1,30 @@
-# _SUB_Hardware_Project
+# _SUB_HW_EPaper
 
-- What is this board? 
-- How will this board communicate?
-- Where would be located?
+- What is this board? This board will display the stored picture on the serial flash eeprom.
+- How will this board communicate? This eeprom on this board will be programmed by provided SPI pin. While it's under programming the MCU will be kept at reset state.
+
 ## Features
 
-- __MCU :__ 
-- __Inputs :__ 
-- __Outputs :__ 
-- __Board Osc. Freq. :__ 
-- __Working Voltage :__
-- __Current Consumption :__
-- __Board Dimensions :__
+- __MCU :__ PIC16F15223 
+- __Inputs :__ SPI
+- __Outputs :__ E-ink Display
+- __Board Osc. Freq. :__ 32 MHz (Internal)
+- __Working Voltage :__ 3VDC (Coin battery)
+- __Current Consumption :__ N/A
+- __Board Dimensions :__ N/A
+
+# _SUB_HW_EPen
+
+- What is this board? This board will be used to write on the EPaper serial flash.
+- How will this board communicate? The data that has to be written on Epaper serial flash will be received from USB and it'll be written over SPI bus.
+
+## Features
+
+- __MCU :__ PIC16F15223 
+- __Inputs :__ USB
+- __Outputs :__ SPI
+- __Board Osc. Freq. :__ 32 MHz (Internal)
+- __Working Voltage :__ 5.5VDC (Powered by USB)
+- __Current Consumption :__ N/A
+- __Board Dimensions :__ N/A
 
