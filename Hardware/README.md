@@ -1,7 +1,7 @@
 # _SUB_HW_EPaper
 
-- What is this board? This board will display the stored picture on the serial flash eeprom.
-- How will this board communicate? This eeprom on this board will be programmed by provided SPI pin. While it's under programming the MCU will be kept at reset state.
+- __What is this board?__ This board will display the stored picture on the serial flash eeprom.
+- __How will this board communicate?__ This eeprom on this board will be programmed by provided SPI pin. While it's under programming the MCU will be kept at reset state.
 
 ## Features
 
@@ -15,8 +15,8 @@
 
 # _SUB_HW_EPen
 
-- What is this board? This board will be used to write on the EPaper serial flash.
-- How will this board communicate? The data that has to be written on Epaper serial flash will be received from USB and it'll be written over SPI bus.
+- __What is this board?__ This board will be used to write on the EPaper serial flash.
+- __How will this board communicate?__ The data that has to be written on Epaper serial flash will be received from USB and it'll be written over SPI bus.
 
 ## Features
 
