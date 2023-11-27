@@ -4,6 +4,17 @@
 
   (paper "B")
 
+  (title_block
+    (company "mend0z0")
+    (comment 1 "v1.0")
+    (comment 2 "PRELIMINARY")
+    (comment 4 "_BOM_EPen.html")
+    (comment 5 "_HW_EPen.pcb")
+    (comment 6 "_GBR_EPen.zip")
+    (comment 7 "_BOM_EPen.html")
+    (comment 9 "First Release")
+  )
+
   (lib_symbols
     (symbol "_SCHLIB_EPen:CAP_1uF_10V_X7R_C0402" (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 2.54 3.81 0)
@@ -607,10 +618,6 @@
     (uuid f726bebe-2215-456a-81bf-67532b03e241)
   )
 
-  (text "UNCHECKED" (at 367.03 36.83 0)
-    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
-    (uuid 22e9bf33-640e-4bf0-b42a-26b91187c6c5)
-  )
   (text "CAUTIONARY:" (at 139.7 171.45 0)
     (effects (font (size 2 2) bold) (justify left bottom))
     (uuid 24d0b5ab-813a-4997-ab6f-39c1d5343388)

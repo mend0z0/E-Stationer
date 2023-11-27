@@ -4,6 +4,17 @@
 
   (paper "B")
 
+  (title_block
+    (company "mend0z0")
+    (comment 1 "v1.0")
+    (comment 2 "PRELIMINARY")
+    (comment 4 "_BOM_EPen.html")
+    (comment 5 "_HW_EPen.pcb")
+    (comment 6 "_GBR_EPen.zip")
+    (comment 7 "_BOM_EPen.html")
+    (comment 9 "First Release")
+  )
+
   (lib_symbols
     (symbol "_SCHLIB_EPen:CAP_100nF_50V_X7R_C0402" (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 2.54 3.81 0)
@@ -858,10 +869,6 @@
     (uuid b476bbaf-11d7-43d1-9865-9936e7449d4f)
   )
 
-  (text "UNCHECKED" (at 369.57 38.1 0)
-    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
-    (uuid 4bc2d3fc-88fb-492b-84fc-534f3d61f55b)
-  )
   (text "I ~= 50mA" (at 234.95 137.16 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5b3e0072-5b3e-413a-b856-94c454f7111b)

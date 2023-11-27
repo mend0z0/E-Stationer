@@ -4,6 +4,17 @@
 
   (paper "B")
 
+  (title_block
+    (company "mend0z0")
+    (comment 1 "v1.0")
+    (comment 2 "PRELIMINARY")
+    (comment 4 "_BOM_EPen.html")
+    (comment 5 "_HW_EPen.pcb")
+    (comment 6 "_GBR_EPen.zip")
+    (comment 7 "_BOM_EPen.html")
+    (comment 9 "First Release")
+  )
+
   (lib_symbols
     (symbol "_SCHLIB_EPen:CAP_100nF_50V_X7R_C0402" (in_bom yes) (on_board yes)
       (property "Reference" "C" (at 2.54 3.81 0)
@@ -562,7 +573,7 @@
     (uuid fb56d6d5-9fdd-459b-aafd-a65c6ef90640)
   )
 
-  (no_connect (at 146.05 132.08) (uuid ea345b83-46d7-4d1f-a1a4-9bf568286114))
+  (no_connect (at 142.24 132.08) (uuid ea345b83-46d7-4d1f-a1a4-9bf568286114))
 
   (wire (pts (xy 200.66 152.4) (xy 200.66 154.94))
     (stroke (width 0) (type default))
@@ -682,7 +693,7 @@
     (stroke (width 0) (type default))
     (uuid c3b30d82-e80e-4b8d-8924-5d901fdcfefa)
   )
-  (wire (pts (xy 146.05 132.08) (xy 138.43 132.08))
+  (wire (pts (xy 142.24 132.08) (xy 138.43 132.08))
     (stroke (width 0) (type default))
     (uuid dca67388-db92-42c6-a60c-fca86b4af60a)
   )
@@ -725,10 +736,6 @@
     (uuid 773189ac-9a34-422b-a2b6-ea672929a10e)
   )
 
-  (text "UNCHECKED" (at 370.84 35.56 0)
-    (effects (font (size 5.08 5.08) (thickness 1.016) bold) (justify left bottom))
-    (uuid 311d61ea-4628-4742-84a8-71675299cb8b)
-  )
   (text "I ~= 100mA" (at 260.35 77.47 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7125a65c-84e3-450d-b517-9af58c691e6d)

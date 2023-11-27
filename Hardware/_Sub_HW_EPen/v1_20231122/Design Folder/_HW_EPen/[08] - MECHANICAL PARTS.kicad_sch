@@ -1,0 +1,21 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid fafaddf3-8075-46e5-bbb2-03325bbc83ad)
+
+  (paper "B")
+
+  (title_block
+    (company "mend0z0")
+    (comment 1 "v1.0")
+    (comment 2 "PRELIMINARY")
+    (comment 4 "_BOM_EPen.html")
+    (comment 5 "_HW_EPen.pcb")
+    (comment 6 "_GBR_EPen.zip")
+    (comment 7 "_BOM_EPen.html")
+    (comment 9 "First Release")
+  )
+
+  (lib_symbols
+  )
+
+)
