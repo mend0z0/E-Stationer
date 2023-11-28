@@ -131,7 +131,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 0200362a-533f-420f-8c8e-6997acfda89c)
-    (at 100.81 140.97)
+    (at 100.81 135.89)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "47 pF ±5% 50V Ceramic Capacitor X7R 0402 (1005 Metric)")
@@ -405,7 +405,7 @@
 
   (footprint "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias" (layer "F.Cu")
     (tstamp 1a4959b2-645c-4c8a-9ac6-b2b8f3274c75)
-    (at 100.33 147.955 180)
+    (at 100.33 147.205 180)
     (descr "QFN, 16 Pin (http://www.thatcorp.com/datashts/THAT_1580_Datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
     (tags "QFN NoLead")
     (property "Description" "USB Bridge, USB to UART USB 2.0 UART Interface 16-QFN (4x4)")
@@ -1387,7 +1387,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tstamp 4fadc776-439a-4f85-b94f-e2a1479275b7)
-    (at 100.81 135.89)
+    (at 100.81 140.66)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Description" "47 pF ±5% 50V Ceramic Capacitor X7R 0402 (1005 Metric)")
