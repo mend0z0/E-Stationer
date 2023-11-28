@@ -5,7 +5,7 @@ This todo list belongs to _SUB_HW_EPen, the hardware part of EPen sub project.
 ## Tasks
 
 - #### MUST to DO :
-    - List the works that proper working of project depends on these tasks
+    - Writing the LED indicator status once it's been determined how it should blink based on different situation.
     -
     - 
 - #### Important :

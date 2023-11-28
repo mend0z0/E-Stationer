@@ -5,16 +5,17 @@
   (paper "B")
 
   (title_block
-    (title "EPen")
+    (title "_HW_EPen")
     (date "2023-11-27")
     (rev "v1.0")
     (company "mend0z0")
     (comment 1 "v1.0")
-    (comment 2 "PRELIMINARY")
+    (comment 2 "CHECKED")
     (comment 4 "_BOM_EPen.html")
     (comment 5 "_HW_EPen.pcb")
     (comment 6 "_GBR_EPen.zip")
     (comment 7 "_BOM_EPen.html")
+    (comment 8 "N/A")
     (comment 9 "First Release")
   )
 

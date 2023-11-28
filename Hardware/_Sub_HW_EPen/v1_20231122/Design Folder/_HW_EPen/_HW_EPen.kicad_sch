@@ -9,7 +9,7 @@
     (rev "v1.0")
     (company "mend0z0")
     (comment 1 "v1.0")
-    (comment 2 "PRELIMINARY")
+    (comment 2 "CHECKED")
     (comment 3 "Siavash Taher Parvar")
     (comment 4 "_BOM_EPen.html")
     (comment 5 "_HW_EPen.pcb")
@@ -519,6 +519,23 @@
     )
   )
 
+  (sheet (at 50.8 207.01) (size 63.5 6.35) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 383c9b75-08d9-4a41-ad9a-837874a6ffa8)
+    (property "Sheetname" "PWR SEQUENCE" (at 50.8 206.2984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[09] - PWR SEQUENCE.kicad_sch" (at 50.8 213.9446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407" (page "9"))
+      )
+    )
+  )
+
   (sheet (at 50.8 118.11) (size 63.5 6.35) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
@@ -532,6 +549,23 @@
     (instances
       (project "_HW_EPen"
         (path "/9ee621ae-6984-4881-898c-f5f3c9433407" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 50.8 219.71) (size 63.5 6.35) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9882d015-def4-4c31-aee5-98212d15472f)
+    (property "Sheetname" "REVISION HISTORY" (at 50.8 218.9984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[10] - REVISION HISTORY.kicad_sch" (at 50.8 226.6446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPen"
+        (path "/9ee621ae-6984-4881-898c-f5f3c9433407" (page "10"))
       )
     )
   )
