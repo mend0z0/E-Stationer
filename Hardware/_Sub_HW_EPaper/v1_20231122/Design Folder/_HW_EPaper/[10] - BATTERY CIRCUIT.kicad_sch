@@ -1,0 +1,18 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 44da7a7b-455b-4d50-b9b2-fb895f637527)
+
+  (paper "B")
+
+  (title_block
+    (title "_HW_EPaper")
+    (rev "v1.0")
+    (company "Mend0z0")
+    (comment 1 "v1.0")
+    (comment 2 "DRAFT")
+  )
+
+  (lib_symbols
+  )
+
+)

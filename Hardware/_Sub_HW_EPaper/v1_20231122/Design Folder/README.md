@@ -5,7 +5,7 @@ A brief description of this todo list belongs to what project
 ## Tasks
 
 - #### MUST to DO :
-    - List the works that proper working of project depends on these tasks
+    - Adding 3D part to the 8-SOIC footprint for serial flash
     -
     - 
 - #### Important :
