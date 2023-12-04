@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid f17fcd53-5660-4729-8f0b-56d58422ca84)
+
+  (paper "B")
+
+  (lib_symbols
+  )
+
+
+  (text "LI-ION BATTERY 1cell 3.7v" (at 71.12 63.5 0)
+    (effects (font (size 5.08 5.08)) (justify left bottom))
+    (uuid 7b424315-7ca2-4f25-83aa-bf93bd689c2b)
+  )
+)

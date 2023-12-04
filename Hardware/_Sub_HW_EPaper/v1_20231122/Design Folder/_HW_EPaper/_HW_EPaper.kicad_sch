@@ -484,6 +484,23 @@
     )
   )
 
+  (sheet (at 50.8 194.31) (size 63.5 6.35) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c2a260bf-2a9f-4261-93ae-c3a59c9e8d69)
+    (property "Sheetname" "MECHANICAL PARTS" (at 50.8 193.5984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "[12] - MECHANICAL PARTS.kicad_sch" (at 50.8 201.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "_HW_EPaper"
+        (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3" (page "12"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
