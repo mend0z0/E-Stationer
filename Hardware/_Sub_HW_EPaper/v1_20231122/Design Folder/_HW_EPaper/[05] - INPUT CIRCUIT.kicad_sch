@@ -9,7 +9,7 @@
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1.0")
-    (comment 2 "DRAFT")
+    (comment 2 "PRELIMINARY")
   )
 
   (lib_symbols
@@ -101,7 +101,7 @@
       (property "Link" "https://www.digikey.ca/en/products/detail/samtec-inc/SSQ-108-02-T-S-RA/1111404" (at 2.54 11.43 0)
         (effects (font (size 1.27 1.27)) (justify left) hide)
       )
-      (property "Package" "Through Hole (RA)" (at 2.54 21.59 0)
+      (property "Package" "Through Hole (2.54mm)" (at 2.54 21.59 0)
         (effects (font (size 1.27 1.27)) (justify left))
       )
       (property "SCH CHECK" "SCH (CHECKED)" (at 2.54 24.13 0)
@@ -2811,7 +2811,7 @@
     (property "Link" "https://www.digikey.ca/en/products/detail/samtec-inc/SSQ-108-02-T-S-RA/1111404" (at 41.91 199.39 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Package" "Through Hole (RA)" (at 41.91 157.48 0)
+    (property "Package" "Through Hole (2.54mm)" (at 41.91 157.48 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "SCH CHECK" "SCH (CHECKED)" (at 41.91 160.02 0)

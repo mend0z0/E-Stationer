@@ -4,6 +4,14 @@
 
   (paper "B")
 
+  (title_block
+    (title "_HW_EPaper")
+    (rev "v1.0")
+    (company "Mend0z0")
+    (comment 1 "v1.0")
+    (comment 2 "PRELIMINARY")
+  )
+
   (lib_symbols
   )
 
