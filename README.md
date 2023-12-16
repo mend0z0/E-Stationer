@@ -69,9 +69,9 @@ to draw, write, read, and any sort of activities that you are able to do with a 
 
 #### 3D_View
 
-[3DView_Top_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_EPaper.png)
+![3DView_Top_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_EPaper.png)
 
-[3DView_Bottom_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_EPaper.png)
+![3DView_Bottom_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_EPaper.png)
 
 ![3DView_Top_EPen](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_EPen.png)
 
