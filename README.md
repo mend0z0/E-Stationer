@@ -2,7 +2,7 @@
 
 
 ``
-Working on folder structure, block diagrams, and...
+Working on the scheduing, hardware design, correcting diagrams, and...
 ``
 
 
@@ -66,10 +66,29 @@ to draw, write, read, and any sort of activities that you are able to do with a 
 ## Screenshots
 
 ### Hardware
-![App Screenshot](https://github.com/mend0z0/OfficeDisplay/blob/main/Document/Screenshots/E-paper%20driver%20with%20PIC16F%20-%20Failed%20(20231010))
+
+#### 3D_View
+
+![3DView_Top_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_EPaper.png)
+
+![3DView_Bottom_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_EPaper.png)
+
+![3DView_Top_EPen](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Top_EPen.png)
+
+![3DView_Bottom_EPen](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/3D%20View/3DView_Bottom_EPen.png)
+ 
+#### Assembled Hardware
+
+![Hardware_Top_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Top_EPaper.png)
+
+![Hardware_Bottom_EPaper](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Bottom_EPaper.png)
+
+![Hardware_Top_EPen](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Top_EPen.png)
+
+![Hardware_Bottom_EPen](https://github.com/mend0z0/E-Stationer/blob/main/Document/Hardware%20Screenshot/Hardware/Hardware_Bottom_EPen.png)
 
 ### Application
-![App Screenshot](https://github.com/mend0z0/OfficeDisplay/blob/main/Document/Screenshots/E-paper%20driver%20with%20PIC16F%20-%20Failed%20(20231010))
+![App Screenshot](https://github.com/mend0z0/E-Stationer/blob/main/Document/Applicaiton%20Screenshot/Application-Page-First.png)
 
 
 
