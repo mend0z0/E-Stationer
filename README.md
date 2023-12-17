@@ -2,7 +2,7 @@
 
 
 ``
-Working on the scheduing, hardware design, correcting diagrams, and...
+Working on the scheduling, hardware design, correcting diagrams, and...
 ``
 
 
