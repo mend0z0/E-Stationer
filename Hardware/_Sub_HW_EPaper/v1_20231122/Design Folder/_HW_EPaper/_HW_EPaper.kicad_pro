@@ -428,7 +428,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "_HW_EPaper.step",
       "vrml": ""
     },
     "page_layout_descr_file": "ANSI B Landscape_PCBDoc_Mend0z0.kicad_wks"

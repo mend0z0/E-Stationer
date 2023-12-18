@@ -1,0 +1,413 @@
+STEP translation to Solid Edge
+Date: Monday,December 18,2023 10:08AM
+Source File: D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\_HW_EPen.step
+Author: Pcbnew
+Organization: Kicad
+Source System: KiCad to STEP converter
+
+Hardware:
+Processor: 12th Gen Intel(R) Core(TM) i7-12700H
+Operating System: Windows 11 Version:23H2 Build:22631 System Type:64-bit
+Installed Memory: 15.67 GB
+
+Software Information
+Parasolid Version: 35.0.149
+PSBodyShop Version: 35.0.82
+Step Adapter Version: 11.0.82
+Solid Edge Version: 223.00.00.101 x64
+
+Step Import Options
+Import Faceted Bodies: On
+Import Check Bodies: Off
+Import Curves: On
+Import DoNotSave: On
+Import Multiple Bodies As Single Part File: On
+Import Stitch Surfaces: On
+Import Boolean Solids: On
+Make Base Feature: On
+Simplify Geometry: On
+Import Imprint Curves: On
+Import Drive: C:
+Import Stitch Surfaces: On
+Import Surfaces: On
+Import Output Path: D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen
+Import Enable Default Output Path: On
+Import PMI: Off
+Import As Internal Components: Off
+Import Path: 
+
+Translating to Parasolid data types...
++Begin Assembly: 1
++Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\_HW_EPen.asm
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\Fuse_0603_1608Metric.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_0.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\TSSOP-16_4.4x5mm_P0.65mm.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_1.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_2.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_3.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0805_2012Metric.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_4.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0805_2012Metric.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_5.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\PinHeader_1x04_P2.54mm_Vertical.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_6.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\LED_0402_1005Metric.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_7.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\10118194-0001LF.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\COMPOUND.par
+|--+Total Parts: 28
+|--+Assemblies: 0
+|--+Solid Bodies: 28
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOT-353_SC-70-5.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_8.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SO-14_3.9x8.65mm_P1.27mm.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\COMPOUND_0.par
+|--+Total Parts: 32
+|--+Assemblies: 0
+|--+Solid Bodies: 32
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\CR_7PCT_L3F_TOS.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\COMPOUND_1.par
+|--+Total Parts: 8
+|--+Assemblies: 0
+|--+Solid Bodies: 8
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\LED_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\CR_7PCT_L3F_TOS.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\LED_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\CR_7PCT_L3F_TOS.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\Fuse_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Created SE Assembly File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\PinSocket_1x08_P2.54mm_Horizontal.asm
+|  |--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\SOLID_9.par
+|--+Total Parts: 2
+|--+Assemblies: 0
+|--+Solid Bodies: 2
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\R_0402_1005Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\Fuse_0603_1608Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Begin Assembly: 2
+|--+Reusing File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\C_0805_2012Metric.asm
+|--+Total Parts: 0
+|--+Assemblies: 0
+|--+Solid Bodies: 0
+|--+Sheet Bodies: 0
+|--+End Assembly: 2
+|--+Created SE Part File D:\Projects\STP\E-Stationer\Hardware\_Sub_HW_EPen\v1_20231122\Design Folder\_MECH_EPen\_HW_EPen PCB.par
++Total Parts: 16
++Assemblies: 14
++Solid Bodies: 2
++Sheet Bodies: 0
++End Assembly: 1
+Translation process completed
+Total time required to translate and post process:00 : 00 : 05

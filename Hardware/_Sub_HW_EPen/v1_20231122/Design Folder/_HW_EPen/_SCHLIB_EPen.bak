@@ -1381,6 +1381,17 @@
     (property "ki_description" "Mend0z0 Logo" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (symbol "MECH_GR_LOGO_MEND0Z0_TOP LAYER_0_1"
+      (rectangle (start 0 0) (end 12.7 -12.7)
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+    )
+    (symbol "MECH_GR_LOGO_MEND0Z0_TOP LAYER_1_1"
+      (text "LOGO" (at 6.35 -6.35 0)
+        (effects (font (size 2.54 2.54)))
+      )
+    )
   )
   (symbol "MECH_HOLE_MOUNTING_M2.5_DIN965_WITH NET" (in_bom no) (on_board yes)
     (property "Reference" "MH" (at 2.54 3.81 0)
