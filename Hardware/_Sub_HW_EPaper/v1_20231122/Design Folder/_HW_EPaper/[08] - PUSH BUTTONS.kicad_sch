@@ -9,7 +9,7 @@
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1.0")
-    (comment 2 "PRELIMINARY")
+    (comment 2 "CHECKED")
   )
 
   (lib_symbols
@@ -544,7 +544,7 @@
   (symbol (lib_id "power:GND") (at 190.5 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7f117c1e-9f0f-49fc-8906-c4d9b505273e)
-    (property "Reference" "#PWR0803" (at 190.5 152.4 0)
+    (property "Reference" "#PWR0802" (at 190.5 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 190.5 151.13 0)
@@ -560,7 +560,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/3e03c09c-004d-48eb-9802-4e9ea121067b"
-          (reference "#PWR0803") (unit 1)
+          (reference "#PWR0802") (unit 1)
         )
       )
     )
@@ -569,7 +569,7 @@
   (symbol (lib_id "power:GND") (at 228.6 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 810f6b8d-1049-49f7-9a12-e40639837fed)
-    (property "Reference" "#PWR0802" (at 228.6 152.4 0)
+    (property "Reference" "#PWR0803" (at 228.6 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 228.6 151.13 0)
@@ -585,7 +585,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/3e03c09c-004d-48eb-9802-4e9ea121067b"
-          (reference "#PWR0802") (unit 1)
+          (reference "#PWR0803") (unit 1)
         )
       )
     )
