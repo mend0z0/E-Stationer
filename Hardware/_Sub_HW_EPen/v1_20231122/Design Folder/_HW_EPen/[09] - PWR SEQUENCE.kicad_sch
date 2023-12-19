@@ -2,13 +2,14 @@
 
   (uuid 25aa6369-1822-4d59-b371-4153d428684d)
 
-  (paper "B")
+  (paper "C")
 
   (title_block
     (title "_HW_EPen")
+    (rev "v1.0")
     (company "mend0z0")
     (comment 1 "v1.0")
-    (comment 2 "DRAFT")
+    (comment 2 "CHECKED")
     (comment 4 "_BOM_EPen.html")
     (comment 5 "_HW_EPen.pcb")
     (comment 6 "_GBR_EPen.zip")

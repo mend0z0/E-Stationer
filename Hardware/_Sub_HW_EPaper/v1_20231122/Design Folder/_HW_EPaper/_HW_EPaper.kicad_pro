@@ -431,7 +431,7 @@
       "step": "_HW_EPaper.step",
       "vrml": ""
     },
-    "page_layout_descr_file": "ANSI B Landscape_PCBDoc_Mend0z0.kicad_wks"
+    "page_layout_descr_file": "ANSI C Landscape_PCBDoc_Mend0z0.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -457,7 +457,7 @@
       "version": 1
     },
     "net_format_name": "",
-    "page_layout_descr_file": "ANSI B Landscape_SCHDoc_Mend0z0.kicad_wks",
+    "page_layout_descr_file": "ANSI C Landscape_SCHDoc_Mend0z0.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

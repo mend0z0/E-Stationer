@@ -1,0 +1,46 @@
+PCB statistics report
+=====================
+- Date: 12/19/2023 7:22:40 AM
+- Project: _HW_EPen
+- Board name: _HW_EPen
+
+Board
+-----
+- Width: 1950.00 mils
+- Height: 1150.00 mils
+- Area: 2233839.53 mils²
+
+Pads
+----
+- Through hole: 29
+- SMD: 158
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 58
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          2 |         0 |     2 |
+|SMD:          |         50 |         0 |    50 |
+|Unspecified:  |          5 |         0 |     5 |
+|Total:        |         57 |         0 |    57 |
+
+Drill holes
+-----------
+
+| Count | Shape |      X Size |      Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-------------|-------------|--------|---------|-------------|------------|
+|    58 | Round |  15.75 mils |  15.75 mils |    PTH |     Via |        F.Cu |       B.Cu |
+|    12 | Round |  39.37 mils |  39.37 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     9 | Round |  11.81 mils |  11.81 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 106.30 mils | 106.30 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot |  19.69 mils |  45.28 mils |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot |  33.46 mils |  21.65 mils |    PTH |     Pad |        F.Cu |       B.Cu |
