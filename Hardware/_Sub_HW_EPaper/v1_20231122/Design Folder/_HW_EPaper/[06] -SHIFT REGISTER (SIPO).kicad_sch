@@ -6,10 +6,18 @@
 
   (title_block
     (title "_HW_EPaper")
+    (date "2023-12-18")
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1.0")
     (comment 2 "CHECKED")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 4 "_BOM_EPaper.csv")
+    (comment 5 "_HW_EPaper.kicad_pcb")
+    (comment 6 "_GBR_EPaper.zip")
+    (comment 7 "_ASM_EPaper.html")
+    (comment 8 "N/A")
+    (comment 9 "First Release")
   )
 
   (lib_symbols

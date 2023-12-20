@@ -6,10 +6,18 @@
 
   (title_block
     (title "_HW_EPaper")
+    (date "2023-12-18")
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1.0")
     (comment 2 "CHECKED")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 4 "_BOM_EPaper.csv")
+    (comment 5 "_HW_EPaper.kicad_pcb")
+    (comment 6 "_GBR_EPaper.zip")
+    (comment 7 "_ASM_EPaper.html")
+    (comment 8 "N/A")
+    (comment 9 "First Release")
   )
 
   (lib_symbols
@@ -314,8 +322,8 @@
     (uuid 8fa60849-d7ba-42d6-8ea1-b87c4a5a5cf6)
   )
 
-  (text "You can connect\nany LED but the\nmax current that\ncan be sourced\nis 5mA"
-    (at 251.46 224.79 0)
+  (text "You can connect\nany LED but the\nmax current that\ncan be sourced\nis 5mA for each output"
+    (at 248.92 224.79 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 288e5d19-fb49-4276-8adf-9b131a04c615)
   )

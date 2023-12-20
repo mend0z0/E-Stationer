@@ -6,10 +6,18 @@
 
   (title_block
     (title "_HW_EPaper")
+    (date "2023-12-18")
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1.0")
     (comment 2 "CHECKED")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 4 "_BOM_EPaper.csv")
+    (comment 5 "_HW_EPaper.kicad_pcb")
+    (comment 6 "_GBR_EPaper.zip")
+    (comment 7 "_ASM_EPaper.html")
+    (comment 8 "N/A")
+    (comment 9 "First Release")
   )
 
   (lib_symbols
@@ -2612,7 +2620,7 @@
   (symbol (lib_id "power:GND") (at 344.17 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2035e1d2-e184-41e2-9274-756876fa7d97)
-    (property "Reference" "#PWR0501" (at 344.17 208.28 0)
+    (property "Reference" "#PWR0502" (at 344.17 208.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 344.17 207.01 0)
@@ -2628,7 +2636,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/6221c7ba-76d0-4b5a-99b8-b96cf2af5bf0"
-          (reference "#PWR0501") (unit 1)
+          (reference "#PWR0502") (unit 1)
         )
       )
     )
@@ -2967,7 +2975,7 @@
   (symbol (lib_id "power:GND") (at 152.4 201.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5cff4a3c-0bab-40f7-8892-05e84121be41)
-    (property "Reference" "#PWR0505" (at 152.4 208.28 0)
+    (property "Reference" "#PWR0501" (at 152.4 208.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 152.4 207.01 0)
@@ -2983,7 +2991,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/6221c7ba-76d0-4b5a-99b8-b96cf2af5bf0"
-          (reference "#PWR0505") (unit 1)
+          (reference "#PWR0501") (unit 1)
         )
       )
     )
@@ -3098,7 +3106,7 @@
   (symbol (lib_id "power:GND") (at 372.11 207.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 70f8b621-d490-4fed-b796-b50a298e0d5d)
-    (property "Reference" "#PWR0502" (at 372.11 213.36 0)
+    (property "Reference" "#PWR0504" (at 372.11 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 372.11 212.09 0)
@@ -3114,7 +3122,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/6221c7ba-76d0-4b5a-99b8-b96cf2af5bf0"
-          (reference "#PWR0502") (unit 1)
+          (reference "#PWR0504") (unit 1)
         )
       )
     )
@@ -3123,7 +3131,7 @@
   (symbol (lib_id "power:GND") (at 101.6 231.14 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8e99e6f4-9b69-46bf-a7c6-80e80300fa53)
-    (property "Reference" "#PWR0509" (at 107.95 231.14 0)
+    (property "Reference" "#PWR0505" (at 107.95 231.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 105.41 231.14 90)
@@ -3139,7 +3147,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/6221c7ba-76d0-4b5a-99b8-b96cf2af5bf0"
-          (reference "#PWR0509") (unit 1)
+          (reference "#PWR0505") (unit 1)
         )
       )
     )
@@ -3550,7 +3558,7 @@
   (symbol (lib_id "power:GND") (at 100.33 248.92 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb28a6a7-be27-429e-838f-619de7bd6ceb)
-    (property "Reference" "#PWR0508" (at 106.68 248.92 0)
+    (property "Reference" "#PWR0506" (at 106.68 248.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 104.14 248.92 90)
@@ -3566,7 +3574,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/6221c7ba-76d0-4b5a-99b8-b96cf2af5bf0"
-          (reference "#PWR0508") (unit 1)
+          (reference "#PWR0506") (unit 1)
         )
       )
     )

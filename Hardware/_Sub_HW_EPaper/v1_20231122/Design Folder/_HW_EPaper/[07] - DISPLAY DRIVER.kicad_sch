@@ -6,10 +6,18 @@
 
   (title_block
     (title "_HW_EPaper")
+    (date "2023-12-18")
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1.0")
     (comment 2 "CHECKED")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 4 "_BOM_EPaper.csv")
+    (comment 5 "_HW_EPaper.kicad_pcb")
+    (comment 6 "_GBR_EPaper.zip")
+    (comment 7 "_ASM_EPaper.html")
+    (comment 8 "N/A")
+    (comment 9 "First Release")
   )
 
   (lib_symbols
@@ -1848,7 +1856,7 @@
   (symbol (lib_id "power:GND") (at 129.54 210.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 37d58248-67b5-4e57-a514-b66fb7c8ee5d)
-    (property "Reference" "#PWR0707" (at 129.54 217.17 0)
+    (property "Reference" "#PWR0706" (at 129.54 217.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 215.9 0)
@@ -1864,7 +1872,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/aad4a9bd-3620-4b3c-b85a-af2ea669111f"
-          (reference "#PWR0707") (unit 1)
+          (reference "#PWR0706") (unit 1)
         )
       )
     )
@@ -1873,7 +1881,7 @@
   (symbol (lib_id "power:GND") (at 165.1 210.82 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3952d9dd-f592-4ef5-8d2e-e9464d810500)
-    (property "Reference" "#PWR0706" (at 165.1 217.17 0)
+    (property "Reference" "#PWR0707" (at 165.1 217.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 165.1 215.9 0)
@@ -1889,7 +1897,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/aad4a9bd-3620-4b3c-b85a-af2ea669111f"
-          (reference "#PWR0706") (unit 1)
+          (reference "#PWR0707") (unit 1)
         )
       )
     )
@@ -2288,7 +2296,7 @@
   (symbol (lib_id "power:GND") (at 358.14 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 848705fa-c7d5-4875-8fa4-7c3664c7d3cc)
-    (property "Reference" "#PWR0714" (at 358.14 237.49 0)
+    (property "Reference" "#PWR0711" (at 358.14 237.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 358.14 236.22 0)
@@ -2304,7 +2312,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/aad4a9bd-3620-4b3c-b85a-af2ea669111f"
-          (reference "#PWR0714") (unit 1)
+          (reference "#PWR0711") (unit 1)
         )
       )
     )

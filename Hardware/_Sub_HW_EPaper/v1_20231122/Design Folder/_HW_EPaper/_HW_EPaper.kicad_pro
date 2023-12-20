@@ -458,7 +458,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "ANSI C Landscape_SCHDoc_Mend0z0.kicad_wks",
-    "plot_directory": "",
+    "plot_directory": "Output Files/Schematic (PDF)/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -478,7 +478,7 @@
     ],
     [
       "99cad234-6d2d-4b92-87e6-f4f0e962eb13",
-      "MCU"
+      "MICROCONTROLLER"
     ],
     [
       "4b5c65ef-4d97-4734-b226-3d1b8f3d6a0d",
@@ -490,7 +490,7 @@
     ],
     [
       "52e46f08-4b8d-4dc7-b68c-042856b85f67",
-      "SIPO"
+      "SHIFT REGISTER (SIPO)"
     ],
     [
       "aad4a9bd-3620-4b3c-b85a-af2ea669111f",
@@ -506,7 +506,7 @@
     ],
     [
       "d940e4b5-6b64-4fef-a229-4b6e4572b745",
-      "BATTERY CIRCUIT"
+      "BATTERY CHARGER"
     ],
     [
       "d54f2d22-0c5d-4bf8-9003-8fd11626ff3b",
@@ -515,6 +515,14 @@
     [
       "c2a260bf-2a9f-4261-93ae-c3a59c9e8d69",
       "MECHANICAL PARTS"
+    ],
+    [
+      "d1776906-ebb1-441b-87ac-7b50e7232236",
+      "PWR SEQUENCE"
+    ],
+    [
+      "3150a40f-cfae-41d7-92b4-97f7bb6ab126",
+      "REVISION HISTORY"
     ]
   ],
   "text_variables": {}

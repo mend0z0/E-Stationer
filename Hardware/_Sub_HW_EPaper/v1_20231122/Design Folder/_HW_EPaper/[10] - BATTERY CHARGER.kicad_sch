@@ -6,10 +6,18 @@
 
   (title_block
     (title "_HW_EPaper")
+    (date "2023-12-18")
     (rev "v1.0")
     (company "Mend0z0")
     (comment 1 "v1.0")
     (comment 2 "CHECKED")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 4 "_BOM_EPaper.csv")
+    (comment 5 "_HW_EPaper.kicad_pcb")
+    (comment 6 "_GBR_EPaper.zip")
+    (comment 7 "_ASM_EPaper.html")
+    (comment 8 "N/A")
+    (comment 9 "First Release")
   )
 
   (lib_symbols
@@ -3250,7 +3258,7 @@
   (symbol (lib_id "power:GND") (at 355.6 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7577accd-8e9b-49fe-ac55-bd23fe617fc9)
-    (property "Reference" "#PWR01010" (at 355.6 189.23 0)
+    (property "Reference" "#PWR01008" (at 355.6 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 355.6 187.96 0)
@@ -3266,7 +3274,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/d940e4b5-6b64-4fef-a229-4b6e4572b745"
-          (reference "#PWR01010") (unit 1)
+          (reference "#PWR01008") (unit 1)
         )
       )
     )
@@ -3382,7 +3390,7 @@
   (symbol (lib_id "power:GND") (at 468.63 186.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9bd8acae-63b6-44b1-8d18-009861950a4c)
-    (property "Reference" "#PWR01011" (at 468.63 193.04 0)
+    (property "Reference" "#PWR01009" (at 468.63 193.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 468.63 191.77 0)
@@ -3398,7 +3406,7 @@
     (instances
       (project "_HW_EPaper"
         (path "/adfaa0ae-c952-44c7-bc24-1bfe8f9a84a3/4e346fc8-747a-4f3e-83e0-81c9211edb38/d940e4b5-6b64-4fef-a229-4b6e4572b745"
-          (reference "#PWR01011") (unit 1)
+          (reference "#PWR01009") (unit 1)
         )
       )
     )

@@ -6,13 +6,14 @@
 
   (title_block
     (title "_HW_EPen")
-    (date "2023-11-27")
+    (date "2023/11/28")
     (rev "v1.0")
     (company "mend0z0")
     (comment 1 "v1.0")
     (comment 2 "CHECKED")
-    (comment 4 "_BOM_EPen.html")
-    (comment 5 "_HW_EPen.pcb")
+    (comment 3 "Siavash Taher Parvar")
+    (comment 4 "_BOM_EPen.csv")
+    (comment 5 "_HW_EPen.kicad_pcb")
     (comment 6 "_GBR_EPen.zip")
     (comment 7 "_BOM_EPen.html")
     (comment 8 "N/A")
